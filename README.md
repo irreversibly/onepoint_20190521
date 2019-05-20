@@ -11,7 +11,7 @@ onepoint lession
 ![마크다운 로고](/실타래.jpg)
 
 2. Markdown을 통해 문서 작성하기
-3. Github를 통한 기록 정리 
+3. Github를 통해 쳬계적으로 기록하기 
 4. Github를 통한 논문 작성 
-5. Github을 통해 협업하기 
+5. Github을 통한 협업 
 6. Github를 통한 프로젝트 관리
