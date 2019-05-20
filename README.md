@@ -9,6 +9,7 @@ onepoint lession
 1. 기록하기 
 
 ![마크다운 로고](/실타래.jpg)
+
 2. Markdown을 통해 문서 작성하기
 3. Github를 통한 기록 정리 
 4. Github를 통한 논문 작성 
