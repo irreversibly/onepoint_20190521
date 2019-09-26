@@ -56,11 +56,12 @@ The fraction of exhaled nitric oxide (FeNO) is useful for diagnosing and assessi
    
   
   
-Asthma is one of the most common chronic disease with highest prevalence (9.9%) in school-aged children (5-14 year-old age-group).   Childhood asthma is most common cause of school abscences, and 57.9% asthmatic childhood had been experienced asthma exacerbation more than once a year. Despite the high prevalence and socioeconoic burden of childhood asthma, it is not easy and sometimes doughtful to diagnose an childhood asthma. It is difficult to distinguish mild childhood asthma from recurrent bronchitis in early stage. Childhood asthma can be spontaneously remissed, and some adolescent expeirenced initial symptoms as acute exacerbation despite of abascence of previous history of asthma. 
+Asthma is one of the most common chronic disease with highest prevalence (9.9%) in school-aged children (5-14 year-old age-group).   Childhood asthma is most common cause of school abscences, and 57.9% asthmatic childhood had been experienced asthma exacerbation more than once a year. Despite the high prevalence and socioeconoic burden of childhood asthma, it is not easy and sometimes doughtful to diagnose an childhood asthma. It is difficult to distinguish mild childhood asthma from recurrent bronchitis in early stage. Childhood asthma can be spontaneously remissed, but some adolescent expeirenced initial symptoms as acute exacerbation despite of abascence of previous history of asthma. 
 
 Because diagnosis and management of child asthma is difficult, many developed countries have asthma friendly school program (AFSP). South Korea had also begun asthma friendly school program since 2006. AFSP has been screening for asthma and allergic disease based on ISAAC survey for school-aged children, and also conducted monitoring of risk factor and management for school and home enviroment. There have been 
 
-  
+많은 소아들이 학교에서 오랫동안 머무르기 때문에, AFSP 등을 통한 regular monitoring은 소아 천식 환자뿐만 아니라, 천식 발생의 위험요소를 가지고 있는 알레르기 환자들 또는 이전 천식 또는 동반 알레르기 질환이 없는 환자들에서 de novo asthma 진단 또는 급성 악화와 관련된 역학 조사를 하는데 큰 도움이 될 수 있다. 
+학생들은 많은 시간을 학교에서 보내기 때문에, 학교는 
   
   
   
