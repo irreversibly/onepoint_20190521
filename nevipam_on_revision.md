@@ -1,10 +1,11 @@
 
 Allergic rhinitis (AR) is one of the most common allergic diseases around the world [1]. Typical symptoms of AR include nasal itching, sneezing, rhinorrhea, nasal stuffiness, and/or red, itchy, and watery eyes which last throughout the year in perennial AR [2]. 
 
-AR is an IgE-mediated allergic inflammation associated with T helper 2 (Th2) cells polarization, which is attributed to a functional defect of T regulatory (Treg) cells. Treg produce IL-10 and transforming growth factor (TGF)-, while Th2 cells produce interleukin (IL)-4, IL-5, and IL-13, which finally activate effector cells of allergic inflammation such as eosinophils and mast cells. Main pharmacologic treatment of AR includes antihistamines, inhaled nasal corticosteroids, and leukotriene receptor antagonists, which are effective to control AR symptoms and allergic inflammation.  
+AR is an IgE-mediated allergic inflammation associated with T helper 2 (Th2) cells polarization, which is attributed to a functional defect of T regulatory (Treg) cells. Treg produce IL-10 and transforming growth factor (TGF)-, while Th2 cells produce interleukin (IL)-4, IL-5, and IL-13, which finally activate effector cells of allergic inflammation such as eosinophils and mast cells. 
 
-> IgE-mediated allergic inflammation is the main pathophysiologic mechanism of allergic rhinitis, and drives the T helper 2 (Th2) cell polarization. Th2 cells produce interleukin (IL)-4, IL-5, and IL-13 and these mediators activate various effectors cells of allergic inflammation such as eosinophils and mast cells. In contrast, activation of Th2 derived allergic inflammation is attributed to a functional defect of T regulatory (Treg) cells. The production of IL-10 and transforming growth factor (TGF)-  produced from Treg was decreased, and subsequently leading to skewing into Th2-inflammation. 
+> IgE-mediated allergic inflammation is the main pathophysiologic mechanism of allergic rhinitis, and drives the T helper 2 (Th2) cell polarization. Th2 cells produce interleukin (IL)-4, IL-5, and IL-13 and these mediators activate various effectors cells of allergic inflammation such as eosinophils and mast cells. 
 
+>In contrast, activation of Th2 derived allergic inflammation is attributed to a functional defect of T regulatory (Treg) cells. The production of IL-10 and transforming growth factor (TGF)-  produced from Treg was decreased, and subsequently leading to skewing into Th2-inflammation. 
 
 Main pharmacologic treatment of AR includes antihistamines, inhaled nasal corticosteroids, and leukotriene receptor antagonists, which are effective to control AR symptoms and allergic inflammation.  
 
