@@ -14,9 +14,5 @@ Main pharmacologic treatment of AR includes antihistamines, inhaled nasal cortic
 
 Many clinical trials have reported that various probiotics were effective to control symptoms and quality of life in perennial and seasonal AR.(Ref) However, the study protocols of outcome measurements were heterogeneous, where  the probiotics improved Rhinitis Quality of Life Questionnaires (RQLQ) in several studies, while they had no effects on Rhinitis Total Symptom Scores (RTSS) or symptom medication scores (SMS) in other studies(Ref). Furthermore, the mechanism of anti-allergic activity for probiotics have been investigated with the peripheral blood mononuclear cells (PBMCs) from the AR patients. Bifidobacterium lactis NCC2818 [22], Lactobacillus gasseri A5 [23], Lactobacillus paracasei ST11 [24], and Lactobacillus rhamnosus GG [25] reduced IL-5, IL-13, and TNF- production from the PBMC of the AR patients, but do not affect serum total IgE, serum allergen-specific IgE, and IL-10 production. In a randomized, open-label, crossover study of Lactobacillus johnsonii EM1 in 7- to 12-year-old children with perennial AR, the combined treatment group of EM1 with levocetirizine significantly increased serum TGF-β levels compared with levocetirizine alone at 12 weeks [26]. We previously reported that NVP-1703, a mixture of Bifidobacterium longum IM55 and Lactobacillus plantarum IM76, mitigated OVA- or house dust mite allergen (HDMA)-induced AR in mice, where NVP-1703 reduced IL-4, IL-5, IL-13, and IgE levels in nasal mucosa, BALF and blood, whereas the level of IL-10 was increased [27,28]. Taken together, probiotics may suppress Th2 response by way of promoting Treg activity. 
 
-> 최근 probiotics들이 다양한 질환에서 immunomodulatory effect가 있다는 연구결과들이 보고되고 있다. 
-> 이전에도 probiotics가 perineal and seasonal AR과 관련된 몇몇 outcome을 호전시킬 수 있다는 연구결과들이 있었다. 
-> 하지만 아직까지 probiotics들에 대한 연구결과들은 consistent하지 않다. 
-> A et al. ㄱ데ㅐㄳㄷㅇ 등의 연구는 probiotics가 
 
 
